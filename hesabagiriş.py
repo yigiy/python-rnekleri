@@ -6,4 +6,4 @@ if kullanici_adi=="Türkiye" and sifre=="1923":
   import turtle
   forward(90)
 else:
-  print("Kullanıcı adı yada şifre hatalı")
+  print("Kullanıcı adı yada şifre hatalı")her
